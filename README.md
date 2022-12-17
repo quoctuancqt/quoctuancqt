@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://quoctuancqt.github.io/](https://quoctuancqt.github.io/)
 
-- 💬 Ask me about **Net 6, Entity Framework Core, Azure Services, and more**
+- 💬 Ask me about **Net 7, Entity Framework Core, Azure Services, and more**
 
 - 📫 How to reach me **quoctuan.cqt@gmail.com**
 
