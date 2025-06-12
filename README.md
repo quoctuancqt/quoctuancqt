@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://quoctuancqt.github.io/](https://quoctuancqt.github.io/)
 
-- 💬 Ask me about **Net 7, Entity Framework Core, Azure Services, and more**
+- 💬 Ask me about **Net 6+, Entity Framework Core, Azure Services, and more**
 
 - 📫 How to reach me **quoctuan.cqt@gmail.com**
 
@@ -14,6 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tuan-cao-quoc-5a789a12a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuan-cao-quoc-5a789a12a" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+  <a href="https://app.daily.dev/tuantonycao"><img src="https://api.daily.dev/devcards/v2/lZ7Czirz2eFtJiouXO5u3.png?r=q6b&type=default" width="356" alt="Cao Quốc Tuấn's Dev Card"/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
